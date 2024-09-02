@@ -10,3 +10,7 @@ Aulas de Banco de Dados do 2B2 Etec Sylvio de Matos Carvalho.
 
 ##Insert de Servidores:
 ![image](https://github.com/user-attachments/assets/4daf5919-037d-439e-bcda-2b7ed63dfa17)
+
+##Insert de Disciplinas
+![image](https://github.com/user-attachments/assets/f0cac720-d998-4668-8ef4-0d8849ee403d)
+
